@@ -1,0 +1,1 @@
+# Death-Rate-Prediction-using-KNN-and-SVM-Classifier
